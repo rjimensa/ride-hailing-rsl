@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usas este software, por favor cítalo así:"
+authors:
+  - family-names: Jimenez Sampedro
+    given-names: Raquel
+title: "ride-hailing-rsl"
+version: "1.0"
+date-released: 2025-06-01
+license: MIT
+doi: "10.5281/zenodo.1234567"
